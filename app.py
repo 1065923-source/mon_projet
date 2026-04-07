@@ -6,4 +6,4 @@ def calculer(a, b):
 
 if __name__ == "__main__":
     print(saluer("Binta"))
-    print("Somme :", calculer(5, 3)) fvbn
+    print("Somme :", calculer(5, 3)) 
