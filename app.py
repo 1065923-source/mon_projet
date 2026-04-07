@@ -7,3 +7,4 @@ def calculer(a, b):
 if __name__ == "__main__":
     print(saluer("Binta"))
     print("Somme :", calculer(5, 3)) 
+    print("produit :",calculer(2,5))
